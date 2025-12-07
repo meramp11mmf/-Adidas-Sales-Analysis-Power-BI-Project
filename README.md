@@ -4,11 +4,11 @@ This project is a complete Power BI dashboard designed to analyze **Adidas sales
 It provides actionable insights that help decision-makers identify growth opportunities, understand market trends, and enhance overall profitability.
 
 ---
-## 🔗 Interactive Dashboard
-
 ## 🖼️ Dashboard Preview (Click to Open)
 
-https://app.powerbi.com/view?r=eyJrIjoiMjk5MWMyMjQtZjUwMC00ODJiLTk4ZmMtYTIxYWNhMzI4ZTY2IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&embedImagePlaceholder=true
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjk5MWMyMjQtZjUwMC00ODJiLTk4ZmMtYTIxYWNhMzI4ZTY2IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&embedImagePlaceholder=true)**
+
+
 
 
 ## 📌 **Business Requirements**
@@ -89,4 +89,4 @@ Dataset from Kaggle: Adidas US Sales Datasets
 
 ---
 
-## ⭐ **If you found this useful, please star the repo!**
+
