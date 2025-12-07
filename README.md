@@ -4,6 +4,12 @@ This project is a complete Power BI dashboard designed to analyze **Adidas sales
 It provides actionable insights that help decision-makers identify growth opportunities, understand market trends, and enhance overall profitability.
 
 ---
+## 🔗 Interactive Dashboard
+
+## 🖼️ Dashboard Preview (Click to Open)
+
+https://app.powerbi.com/view?r=eyJrIjoiMjk5MWMyMjQtZjUwMC00ODJiLTk4ZmMtYTIxYWNhMzI4ZTY2IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&embedImagePlaceholder=true
+
 
 ## 📌 **Business Requirements**
 
@@ -38,17 +44,7 @@ The goal is to build a comprehensive dashboard that visualizes Adidas sales data
    Compares performance across different Adidas product categories.
 
 5. **Total Sales by Retailer (Bar Chart)**  
-   Shows which retailers contribute most to overall revenue.
-
----
-
-
-## 🔗 Interactive Dashboard
-
-## 🖼️ Dashboard Preview (Click to Open)
-
-[![Dashboard](Adidas_logo.png.png)] (https://app.powerbi.com/view?r=eyJrIjo…)
-
+   Shows which retailers contribute most to overall revenue
 
 
 
