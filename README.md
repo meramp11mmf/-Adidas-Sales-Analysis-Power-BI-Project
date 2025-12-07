@@ -42,11 +42,12 @@ The goal is to build a comprehensive dashboard that visualizes Adidas sales data
 
 ---
 
-## 📊 **Dashboard Preview**
 
-![Adidas Dashboard](images/dashboard.png)
+## 🔗 Interactive Dashboard
 
+## 🖼️ Dashboard Preview (Click to Open)
 
+[![Dashboard](./C:\Users\DESKTOP\Downloads\ADIDS DASHBOARD.png)](https://app.powerbi.com/view?r=eyJrIjo…)
 
 
 
@@ -54,16 +55,15 @@ The goal is to build a comprehensive dashboard that visualizes Adidas sales data
 ## 🛠️ **Tools & Technologies**
 
 - **Power BI Desktop**  
-- **Power Query** (ETL)  
-- **DAX Measures** for calculations  
-- **Data Modeling** (Star Schema)
+- **Power Query**  
+- **DAX Measures**   
+- **Data Modeling** 
 
 ---
 
 ## 📁 **Project Features**
 
 - Clean and organized **data model**
-- Professional and intuitive **UI/UX design**
 - Fully interactive visuals
 - Slicers for **date**, **region**, and **product**
 - KPIs including:
