@@ -47,7 +47,7 @@ The goal is to build a comprehensive dashboard that visualizes Adidas sales data
 
 ## 🖼️ Dashboard Preview (Click to Open)
 
-[![Dashboard](./C:\Users\DESKTOP\Downloads\ADIDS DASHBOARD.png)](https://app.powerbi.com/view?r=eyJrIjo…)
+[![Dashboard](Adidas_logo.png.png)] (https://app.powerbi.com/view?r=eyJrIjo…)
 
 
 
