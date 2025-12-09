@@ -6,7 +6,7 @@ It provides actionable insights that help decision-makers identify growth opport
 ---
 ## 🖼️ Dashboard Preview (Click to Open)
 
-👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjk5MWMyMjQtZjUwMC00ODJiLTk4ZmMtYTIxYWNhMzI4ZTY2IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&embedImagePlaceholder=true)**
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBjODAyNTUtYjNhMy00MDdmLTgxMTAtZjdhYTZmOGE1ODk5IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9)**
 
 
 
